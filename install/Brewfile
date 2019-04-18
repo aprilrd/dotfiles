@@ -1,0 +1,10 @@
+
+tap "goles/battery"
+tap "homebrew/bundle"
+tap "homebrew/core"
+
+brew "coreutils"
+brew "dockutil"
+brew "grep"
+brew "stow"
+brew "wget"
