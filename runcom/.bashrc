@@ -1,6 +1,6 @@
 export PATH="/usr/local/opt:/usr/local/bin:$PATH"
 export NVM_DIR="$HOME/.nvm"
-. "$(brew --prefix nvm)/nvm.sh"
+. "$NVM_DIR/nvm.sh"
 
 #
 # Set the prompt #
